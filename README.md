@@ -1,5 +1,7 @@
 # access-log-abuse-detector
 
+[![CI](https://github.com/1B05H1N/access-log-abuse-detector/actions/workflows/ci.yml/badge.svg)](https://github.com/1B05H1N/access-log-abuse-detector/actions/workflows/ci.yml)
+
 Detect web abuse in access logs: credential stuffing, endpoint enumeration,
 automated scanners, and high error rates per source IP. Emits ranked indicators
 and a suggested blocklist. Pure Python standard library, no dependencies.
